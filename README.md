@@ -1,5 +1,7 @@
 # llstudio-site
-Personal Portfolio Site 
+LL Studio site is my portfolio site to display some of the projects I'm working on. 
+Published Link is here: https://givemeflan.github.io/llstudio-site/
+
 
 ## Screenshots
 ![homepage](https://user-images.githubusercontent.com/66345751/117826133-ec2c2f80-b23d-11eb-9708-1c8fd071410b.JPG)
