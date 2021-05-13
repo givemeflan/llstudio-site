@@ -579,3 +579,51 @@ h6 {
 		font-family: 'Playfair Display', serif;
 	}
 }
+
+/* @media only screen and (max-width: 600px) and (min-width: 400px) */
+/* .navbar-style{
+ width: 800px;
+} */
+
+/* #section2 {
+	height: 750px;
+} */
+
+/* .logo-area {
+	padding-right: 30px;
+} */
+
+/* .navbar-style {
+	list-style-type: none;
+	position: relative;
+	top: 15px;
+	width: 71%;
+	margin: 0 auto;
+}
+
+li a {
+	color: #F1CF93;
+	font-size: 45px;
+	line-height: 1.6em;
+	font-family: 'Playfair Display', serif;
+}
+
+li a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+#main-title {
+	top: 63%;
+	bottom: 50%;
+	left: 10%;
+	position: absolute;
+}
+
+h1 {
+	color: #343D46;
+	font-size: 65px;
+	font-weight: 700px;
+	font-family: 'Playfair Display', serif;
+} */
+
