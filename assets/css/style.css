@@ -362,8 +362,6 @@ h6 {
 	padding-top: 10px;
 }
 
-/* Project Pages CSS */
-
 
 /* Media Query for Mobile */
 
@@ -528,8 +526,9 @@ h6 {
 	}
 
 /* Project Page CSS  */
-
-
+	.item-pic{
+		margin-top: 30px;
+	}
 }
 
 @media screen and (min-width: 768px) {
