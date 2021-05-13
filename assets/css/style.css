@@ -362,44 +362,6 @@ h6 {
 	padding-top: 10px;
 }
 
-
-/* Navbar */
-nav{
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
-	min-height: 8vh;
-	background-color:#F4F5F0;
-}
-
-.ll-brand{
-	color:#343D46;
-	/* font-family: 'Raleway', sans-serif; */
-	font-family: 'Playfair Display', serif;
-	letter-spacing: 4.5px;
-}
-
-.nav-area{
-	display:flex;
-	justify-content: space-around;
-	width:35%;
-}
-.nav-links{
-	font-size:18px;
-	color:#343D46;
-	letter-spacing: 2px;
-	font-family: 'Raleway', sans-serif;
-
-}
-
-.nav-list{
-	list-style-type:none;
-}
-
-.nav-list :hover{
-	color: #D3AE6E;
-}
-
 /* Project Pages CSS */
 
 
