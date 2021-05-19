@@ -1,4 +1,7 @@
 /* CSS for HOMEPAGE */
+:root{
+	--font-style:'Playfair Display', serif;
+}
 
 #section1 {
 	background-color: #343D46;
@@ -39,16 +42,18 @@ li a:hover {
 	position: absolute;
 }
 
+
+
 h1 {
 	color: #343D46;
 	font-size: 65px;
 	font-weight: 700px;
-	font-family: 'Playfair Display', serif;
+	font-family: var(--font-style);
 }
 
 h2 {
 	color: #343D46;
-	font-family: 'Playfair Display', serif;
+	font-family: var(--font-style);
 }
 
 
